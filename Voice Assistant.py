@@ -2,7 +2,6 @@ from datetime import datetime
 import os as system
 import speech_recognition as s
 import webbrowser
-import mysql.connector
 
 recogniser = s.Recognizer()
 name = "Titan"  # name for virtual assistant
